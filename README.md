@@ -2,21 +2,23 @@
 
 <p align="center">
   <a href="https://github.com/vuongtam1167">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices;RESTful+API+Engineer;Database+Optimization+%26+JPA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0466C8&center=true&vcenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices;RESTful+API+Engineer;Database+Optimization+%26+JPA" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6.x-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Java-17%2B-0466C8?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-3.x-0353A4?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6.x-0353A4?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/MySQL-8.0-023E7D?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-002855?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/jLBoL_qDaVQAAAAd/lennsan.gif" width="100%" alt="Line Animation" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Line Animation" />
 </p>
+
+> 💡 **Backend Engineering Focus**: *Specializing in building resilient RESTful APIs, mastering the **Spring Ecosystem**, optimizing relational database systems, and implementing enterprise-grade security filters.*
 
 ---
 
@@ -28,17 +30,21 @@ I am a passionate **Java Backend Developer** specializing in building high-perfo
 - ⚡ **Engineering Principles**: Clean Code, Multi-Layered Architecture (Controller - Service - Repository), Inversion of Control (IoC/DI), and Database Performance Optimization.
 - 🌱 **Continuous Learning**: Spring Cloud, Redis Caching, Docker Containerization, and System Security.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55383301/229098083-4ee27c0e-4e4c-473d-8e42-1e5f8f9e012e.gif" width="580" alt="Tech Workspace Animation" />
+</p>
+
 ---
 
 ## 🛠️ Streamlined Technical Skills
 
 ### 🍃 1. Primary Backend Core (Java & Spring Ecosystem)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=hibernate&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful_APIs-0052CC?style=flat-square&logo=json&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0466C8?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0353A4?style=flat-square&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-0353A4?style=flat-square&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-0353A4?style=flat-square&logo=hibernate&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-0353A4?style=flat-square&logo=springsecurity&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_APIs-33415C?style=flat-square&logo=json&logoColor=white)
 
 - **Core Java & Fundamentals**: Java 17+, OOP Principles, Exception Handling, Collections Framework, Multi-threading.
 - **Spring Core & Framework**: Inversion of Control (IoC), Dependency Injection (DI via Constructor Injection), Aspect-Oriented Programming (AOP).
@@ -46,34 +52,34 @@ I am a passionate **Java Backend Developer** specializing in building high-perfo
 - **Spring Security**: Security Filter Chain (`DelegatingFilterProxy`), Role-Based Access Control (RBAC), `UserDetailsService` Authentication & Authorization.
 
 ### 🗄️ 2. Persistence & Database Management (ORM)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-023E7D?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0353A4?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-023E7D?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-002855?style=flat-square&logo=sqlite&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-33415C?style=flat-square&logo=hibernate&logoColor=white)
 
 - **ORM & Entity Mapping**: Hibernate ORM, Entity Relationships (`@Entity`, `@Table`, `@Id`, `@OneToMany`, `@ManyToOne`, `@ManyToMany`).
 - **Data Access Layer**: `JpaRepository` abstraction, Query Derivation methods, custom JPQL queries, Pagination & Sorting.
 - **Transaction Safety**: ACID compliance, transaction management, and automated rollback using `@Transactional`.
 
 ### 🌐 3. Secondary Stacks & Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP Laravel](https://img.shields.io/badge/PHP_Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![C# .NET](https://img.shields.io/badge/C%23_.NET-239120?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-0466C8?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0353A4?style=flat-square&logo=python&logoColor=white)
+![PHP Laravel](https://img.shields.io/badge/PHP_Laravel-023E7D?style=flat-square&logo=laravel&logoColor=white)
+![C# .NET](https://img.shields.io/badge/C%23_.NET-002855?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-33415C?style=flat-square&logo=javascript&logoColor=black)
 
 - **Backend & Web Frameworks**: PHP (Laravel), C# (ASP.NET / WinForms), Python Web API, Node.js (Basic).
 - **Mobile & Frontend**: Jetpack Compose, Flutter (Dart), HTML5 / CSS3 / JavaScript.
 
 ### 🔧 4. Development Tools & Workflows
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-002855?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-023E7D?style=flat-square&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-002855?style=flat-square&logo=intellijidea&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-33415C?style=flat-square&logo=docker&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-33415C?style=flat-square&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-7D8597?style=flat-square&logo=slack&logoColor=white)
 
 - **Version Control**: Git branching strategies, commit conventions, Pull Requests on GitHub.
 - **Development Tools**: IntelliJ IDEA Ultimate, Postman API Testing Collection Runner, VS Code.
@@ -129,32 +135,3 @@ I am a passionate **Java Backend Developer** specializing in building high-perfo
 
 ---
 
-## 📈 GitHub Stats & Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vuongtam1167&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vương Tâm's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongtam1167&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuongtam1167&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.tenor.com/jLBoL_qDaVQAAAAd/lennsan.gif" width="100%" alt="Line Animation" />
-</p>
-
-## 📫 Contact & Connect
-
-<p align="center">
-  <a href="mailto:vtmh67@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/vuongtam1167">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center"><i>"Write clean code, build robust backends, and continuously evolve."</i></p>
