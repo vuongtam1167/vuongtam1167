@@ -1,4 +1,4 @@
-<p align="center">Hi there, I'm Vương Tâm👋</p>
+<p align="center">Hi there, I'm Vương Tâm 👋</p>
 
 <p align="center">
   <a href="https://github.com/vuongtam1167">
@@ -17,8 +17,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Line Animation" />
 </p>
-
-> 💡 **Backend Engineering Focus**: *Specializing in building resilient RESTful APIs, mastering the **Spring Ecosystem**, optimizing relational database systems, and implementing enterprise-grade security filters.*
 
 ---
 
@@ -90,7 +88,20 @@ I am a passionate **Java Backend Developer** specializing in building high-perfo
 ## 💻 Featured Projects
 
 <details open>
-<summary><b>🌿 1. Spring Boot Enterprise Backend & Security Suite</b></summary>
+<summary><b>🎓 1. QuanLyDeTai - Academic Research & Topic Management System</b></summary>
+<br>
+
+- **Repository**: [https://github.com/vuongtam1167/quanlydetai.git](https://github.com/vuongtam1167/quanlydetai.git)
+- **Role**: Java Backend Developer
+- **Tech Stack**: Java, Spring Framework / Spring Boot, Spring MVC, Spring Data JPA, MySQL.
+- **Key Achievements**:
+  - Engineered a Java Spring web backend system for registering, evaluating, and managing academic research topics and student/faculty projects.
+  - Developed RESTful APIs handling topic submission workflows, faculty evaluation committee assignments, and multi-stage approval status updates.
+  - Integrated Spring Data JPA ORM for relational entity mappings and configured granular role-based access control (Admin, Lecturer, Student).
+</details>
+
+<details open>
+<summary><b>🌿 2. Spring Boot Enterprise Backend & Security Suite</b></summary>
 <br>
 
 - **Role**: Backend Developer
@@ -101,37 +112,38 @@ I am a passionate **Java Backend Developer** specializing in building high-perfo
   - Optimized database operations with `JpaRepository` and guaranteed data rollback safety with `@Transactional`.
 </details>
 
-<details>
-<summary><b>📊 2. Mandala Chart & Partner Management System (ITS Internship)</b></summary>
+<details open>
+<summary><b>📱 3. CKC ENGLOO - Mobile & Web Learning Ecosystem</b></summary>
 <br>
 
-- **Role**: Backend Developer
-- **Tech Stack**: Java RESTful APIs, MySQL, Microservices Architecture.
-- **Key Achievements**:
-  - Developed RESTful CRUD APIs handling complex 9x9 matrix data structures for the Mandala Chart web app.
-  - Implemented multi-tier user permission control, data version control, and query optimization on MySQL.
-</details>
-
-<details>
-<summary><b>📱 3. CKC ENGLOO - Mobile & Web Learning Platform</b></summary>
-<br>
-
+- **Repositories**: 
+  - 🌐 **Backend API**: [https://github.com/vuongtam1167/Api-CKC-ENGLOO.git](https://github.com/vuongtam1167/Api-CKC-ENGLOO.git)
+  - 📱 **Mobile App**: [https://github.com/vuongtam1167/App-CKC-ENGLOO.git](https://github.com/vuongtam1167/App-CKC-ENGLOO.git)
 - **Role**: Team Leader & Lead Fullstack Developer
-- **Tech Stack**: Kotlin, Jetpack Compose, PHP/Laravel REST API, MySQL.
+- **Tech Stack**: Kotlin, Jetpack Compose, PHP / Laravel REST API, MySQL, Figma.
 - **Key Achievements**:
-  - Led a 4-member team to build a high-scoring Capstone Project (**8.7/10**).
-  - Designed the complete relational database schema and REST API integration layer.
+  - Led a 4-member team to build a high-scoring Graduation Capstone Project (**8.7/10**).
+  - Architected the complete relational database schema and designed RESTful API endpoints for seamless cross-platform synchronization between Web and Android Mobile apps.
 </details>
 
 <details>
-<summary><b>🛍️ 4. ShopQuanAo - Mobile E-Commerce Application</b></summary>
+<summary><b>🛍️ 4. ShopQuanAo - E-Commerce Mobile App & Backend</b></summary>
 <br>
 
+- **Repository**: [https://github.com/vuongtam1167/ShopQuanAo.git](https://github.com/vuongtam1167/ShopQuanAo.git)
 - **Role**: Lead Backend Developer
 - **Tech Stack**: Kotlin, Jetpack Compose, Python REST API, MySQL.
 - **Key Achievements**:
-  - Developed backend APIs managing product catalog workflows, shopping carts, and order processing.
+  - Built backend API endpoints handling product catalog management, shopping cart operations, user authentication, and order workflows.
 </details>
 
----
+<details>
+<summary><b>🍽️ 5. QuanLyNhaHang - Restaurant Management Desktop Solution</b></summary>
+<br>
 
+- **Repository**: [https://github.com/vuongtam1167/QuanLyNhaHang.git](https://github.com/vuongtam1167/QuanLyNhaHang.git)
+- **Role**: Team Leader & Fullstack Developer
+- **Tech Stack**: C#, SQL Server, WinForms, Figma.
+- **Key Achievements**:
+  - Developed a desktop management system handling table reservations, order billing, food menu inventories, and financial reports.
+</details>
